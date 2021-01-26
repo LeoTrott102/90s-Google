@@ -5,7 +5,7 @@ An unofficial 90s Google app for Windows 3.1 up to Windows 10! Just have an inte
 
 
 
-Have fun and help me improve! This only took me 5 minutes to create, and just out of curiosity. This is a GREAT example if you are starting to learn Visual Basic as even though it was written in Visual Basic 6.0, it is still relevant today* *Slightly
+Have fun and help me improve! This only took me 5 minutes to create, and just out of curiosity. This is a GREAT example if you are starting to learn Visual Basic as even though it was written in Visual Basic 6.0, it is still relevant today in newer versions of Visual Basic* *Slightly
 
 
 
